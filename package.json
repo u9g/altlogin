@@ -1,5 +1,5 @@
 {
-  "name": "altlogin",
+  "name": "mineflayer-altlogin",
   "version": "1.0.0",
   "description": "package to wrap mineflayer's createBot function to allow login with a username:password string",
   "main": "index.js",

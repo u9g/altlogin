@@ -1,4 +1,4 @@
-# altlogin
+# mineflayer-altlogin
 
 This package wraps mineflayer's createBot function to allow login with a username:password string
 
