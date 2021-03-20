@@ -1,0 +1,27 @@
+{
+  "name": "altlogin",
+  "version": "1.0.0",
+  "description": "package to wrap mineflayer's createBot function to allow login with a username:password string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/u9g/mineflayer-altlogin.git"
+  },
+  "keywords": [
+    "mineflayer",
+    "alt",
+    "login"
+  ],
+  "author": "u9g <winworkswow@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/u9g/mineflayer-altlogin/issues"
+  },
+  "homepage": "https://github.com/u9g/mineflayer-altlogin#readme",
+  "dependencies": {
+    "mineflayer": "latest"
+  }
+}
