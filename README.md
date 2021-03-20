@@ -5,7 +5,7 @@ This package wraps mineflayer's createBot function to allow login with a usernam
 ## Example:
 
 ```js
-const mineflayer = require('mineflayeer-altlogin')
+const mineflayer = require('mineflayer-altlogin')
 
 const bot = mineflayer.createBot({
   host: 'localhost',
